@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yigitrglr
 - 👀 I’m interested in Python and Web Developing
-- 🌱 I’m currently learning Python, CSS, HTML, JS, Java
-- 💞️ I’m looking to collaborate on different Websites
+- 🌱 I’m currently learning Python, CSS, HTML, JavaScript, Java
 - 📫 How to reach me: yigitridvanguler@gmail.com
 - 🏫 High Schooler using Arch (btw)
